@@ -9,10 +9,50 @@
              "category":"dresses"
         },
          {
-            "title": "Corey Lynn Calter Shoulder",
+            "title": "Maeve Tiered Shirt Dress",
             "image":"https://images.urbndata.com/is/image/Anthropologie/4130652010064_030_b2?$an-category$&fit=constrain&fmt=webp&hei=523&qlt=80&wid=349",
             "id":2,
              "price":324,
+             "description":"With experience gained in opera houses, Broadway shows and New York's punk scene, Corey Lynn Calter's eponymous line is defined by original prints, flattering cuts, and punchy hues that are inspired by her vast and varied background.",
+             "category":"dresses"
+        },
+        {
+            "title": "By Anthropologie Strapless Sequin Mini Dress",
+            "image":"https://images.urbndata.com/is/image/Anthropologie/4130370060114_009_b2?$an-category$&fit=constrain&fmt=webp&hei=523&qlt=80&wid=349",
+            "id":3,
+             "price":449,
+             "description":"With experience gained in opera houses, Broadway shows and New York's punk scene, Corey Lynn Calter's eponymous line is defined by original prints, flattering cuts, and punchy hues that are inspired by her vast and varied background.",
+             "category":"dresses"
+        },
+        {
+            "title": "The Somerset Maxi Dress",
+            "image":"https://images.urbndata.com/is/image/Anthropologie/4130646420009_043_b2?$an-category$&fit=constrain&fmt=webp&hei=523&qlt=80&wid=349",
+            "id":4,
+             "price":899,
+             "description":"With experience gained in opera houses, Broadway shows and New York's punk scene, Corey Lynn Calter's eponymous line is defined by original prints, flattering cuts, and punchy hues that are inspired by her vast and varied background.",
+             "category":"dresses"
+        },
+        {
+            "title": "Delfi Collective Velvet Slip Dress",
+            "image":"https://images.urbndata.com/is/image/Anthropologie/4130615900007_030_b2?$an-category$&fit=constrain&fmt=webp&hei=523&qlt=80&wid=349",
+            "id":5,
+             "price":999,
+             "description":"With experience gained in opera houses, Broadway shows and New York's punk scene, Corey Lynn Calter's eponymous line is defined by original prints, flattering cuts, and punchy hues that are inspired by her vast and varied background.",
+             "category":"dresses"
+        },
+        {
+            "title": "Black Halo Sleeveless Mock-Neck Dress",
+            "image":"https://images.urbndata.com/is/image/Anthropologie/4130237430019_020_b2?$an-category$&fit=constrain&fmt=webp&hei=523&qlt=80&wid=349",
+            "id":6,
+             "price":800,
+             "description":"With experience gained in opera houses, Broadway shows and New York's punk scene, Corey Lynn Calter's eponymous line is defined by original prints, flattering cuts, and punchy hues that are inspired by her vast and varied background.",
+             "category":"dresses"
+        },
+        {
+            "title": "Geisha Designs Floral Appliqué Dress",
+            "image":"https://images.urbndata.com/is/image/Anthropologie/4130370060072_063_b2?$an-category$&fit=constrain&fmt=webp&hei=523&qlt=80&wid=349",
+            "id":7,
+             "price":500,
              "description":"With experience gained in opera houses, Broadway shows and New York's punk scene, Corey Lynn Calter's eponymous line is defined by original prints, flattering cuts, and punchy hues that are inspired by her vast and varied background.",
              "category":"dresses"
         }
